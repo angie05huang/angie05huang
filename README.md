@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Angie Huang
-- 👀 I’m interested in Data Analytics, Machine Learning, Artificial Intelligence, Computational Math Modeling, and Cybersecurity
-- 🌱 I’m currently learning Data Science and Statistics at UC Berkeley
+- 👀 I’m interested in Full-Stack, Data Analytics, Software Engineering, Machine Learning, Cybersecurity
+- 🌱 I’m currently learning Data Science and Economics at UC Berkeley
 - 📫 How to reach me: angiehuang05@berkeley.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love playing badminton so please reach out if you ever want to play!
