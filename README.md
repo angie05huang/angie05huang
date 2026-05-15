@@ -16,13 +16,6 @@ Developed econometric and machine learning models to predict sovereign credit ra
 
 Built a Random Forest model to predict romantic matches using demographic and behavioral features from the Speed Dating dataset.
 
-## Leadership
-
-* President, Cal Badminton
-* Vice President External, Alpha Kappa Delta Phi
-* Service Committee Lead, Alpha Phi Omega
-* Associate Staff, Asian American Association
-
 ## Interests
 
 Playing badminton, traveling, music, and exploring new places and experiences.
