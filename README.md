@@ -4,9 +4,11 @@
 
 Data Science & Economics @ UC Berkeley
 
-Full-Stack Development • Secure Systems • Risk & Fraud Analytics • Machine Learning
+Full-Stack Development • AI Systems • Risk & Fraud Analytics • Machine Learning
 
-[LinkedIn](https://www.linkedin.com/in/angie-huang-abb53b294/) • [GitHub](https://github.com/angie05huang) • [Email](mailto:angiehuang05@berkeley.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angie-huang-abb53b294/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/angie05huang)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:angiehuang05@berkeley.edu)
 
 </div>
 
@@ -14,20 +16,25 @@ Full-Stack Development • Secure Systems • Risk & Fraud Analytics • Machine
 
 ## About Me
 
-I’m interested in building end-to-end technical systems that combine software engineering, AI, and data-driven problem solving. My experience includes full-stack development, secure authentication systems, machine learning workflows, and analytics-focused applications.
+I build full-stack applications that sit at the intersection of software engineering, AI, and data. I'm drawn to problems that require both technical depth and product thinking — whether that's designing a system that handles thousands of concurrent users, wiring up an LLM to real APIs, or building ML models that turn messy data into actionable insight.
 
 ---
 
 ## Featured Projects
 
-### BlackBox AI Platform
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [Orthogonal AI Chat](https://github.com/angie05huang/orthogonal-chatbot) | Production AI chat app with live access to Orthogonal's business data APIs | Next.js · Claude · Supabase · Redis · Clerk |
+| [BlackBox AI Platform](https://github.com/angie05huang/Blackbox-Speech-Recognition) | AI transcription and semantic document search with secure access control | Flask · WhisperX · OpenAI · Chroma |
+| [Sovereign Credit Prediction](https://github.com/angie05huang/sovereign-credit-rating-prediction) | ML models predicting sovereign credit ratings from macroeconomic indicators | Python · scikit-learn · XGBoost |
+| [Speed Dating Prediction](https://github.com/angie05huang/speed-dating-prediction-model) | Random Forest classifier predicting romantic matches from behavioral features | Python · scikit-learn · pandas |
 
-Built an end-to-end AI-assisted transcription and document retrieval platform using Flask, WhisperX, SQLAlchemy, Chroma vectorstores, and OpenAI embeddings with secure authentication and project-based access control.
+---
 
-### Sovereign Credit Rating Prediction
+## Skills
 
-Developed econometric and machine learning models to predict sovereign credit ratings using macroeconomic indicators from World Bank and IMF datasets.
-
-### Speed Dating Match Prediction
-
-Built a Random Forest model to predict romantic matches using demographic and behavioral features from the Speed Dating dataset.
+**Languages:** Python · TypeScript · JavaScript · SQL · R  
+**Frameworks:** Next.js · React · Flask · Node.js  
+**AI/ML:** Anthropic Claude · OpenAI · scikit-learn · XGBoost · WhisperX  
+**Databases:** PostgreSQL · Redis · Chroma · SQLAlchemy  
+**Tools:** Vercel · Supabase · Upstash · Clerk · Git
